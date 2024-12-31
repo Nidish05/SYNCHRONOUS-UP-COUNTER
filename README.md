@@ -110,11 +110,13 @@ RegisterNumber:24002777
 */
 
 **RTL LOGIC UP COUNTER**
-![Screenshot 2024-12-18 141411](https://github.com/user-attachments/assets/be89b48e-5e8e-4da9-9841-e648b1d08429)
+![image](https://github.com/user-attachments/assets/42c70d8f-9bbe-474e-89b9-4f97361a4871)
+
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Screenshot 2024-12-18 141610](https://github.com/user-attachments/assets/4af1fa9d-1857-464e-b55e-d3d57270fb33)
+
+![image](https://github.com/user-attachments/assets/24f3596b-bb30-4404-8bc7-3d21f9e0d16b)
 
 
 **TRUTH TABLE**
